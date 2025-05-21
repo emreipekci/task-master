@@ -1,0 +1,23 @@
+# created by virtualenv automatically
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment folders
+env/
+venv/
+
+# Environment variables
+.env
+
+# SQLite database
+*.db
+instance/
+
+# VS Code settings (optional, remove if not using VS Code)
+.vscode/
+
+# Mac and system files
+.DS_Store
+
